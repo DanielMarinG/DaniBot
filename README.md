@@ -7,7 +7,7 @@
 ¡DaniBot traerá la canción desde YouTube y comenzará a reproducirla en el canal de voz donde te encuentres!, o reproducira una lista que le hayas proporcionado por medio de un link desde Youtube. (<b>¡Debes estar en un canal de voz para permitir el ingreso de DaniBot!)
 
 ##
-### >restart 💖😉.
+### 💖😉 >restart .
 Reinicia la canción actual desde el inicio, sin interrumpir la cola de reproducción.
 ##
 ### >hola 😃👀.
