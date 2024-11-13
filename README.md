@@ -4,7 +4,7 @@
 ## DaniBot está listo para ayudarte a explorar una variedad de comandos en Discord. Aquí tienes una guía rápida de sus comandos principales: 👌
 
 ### >play [nombre de canción] o [Link de Lista de Reproducción] 🎶😍
-¡DaniBot traerá la canción desde YouTube y comenzará a reproducirla en el canal de voz donde te encuentres!, o reproducira una lista que le hayas proporcionado por medio de un link desde Youtube
+¡DaniBot traerá la canción desde YouTube y comenzará a reproducirla en el canal de voz donde te encuentres!, o reproducira una lista que le hayas proporcionado por medio de un link desde Youtube. (<b>¡Debes estar en un canal de voz para permitir el ingreso de DaniBot!<b/>)
 
 ### >restart 💖😉
 Reinicia la canción actual desde el inicio, sin interrumpir la cola de reproducción.
