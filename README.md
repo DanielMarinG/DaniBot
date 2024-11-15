@@ -19,4 +19,8 @@ Muestra el avatar de la persona mencionada. Si no mencionas a nadie, el bot most
 ### ¿Hubo un error? 😢.
 En caso de encontrarte con algun error, puedes comunicarlo al numero de whatsapp +57 350 8294382 o proximamente en mas canales de atención
 
+##
+### Reinicios Automáticos
+DaniBot se reiniciará automáticamente cada 24 horas para así mantener un funcionamiento optimo
+
 <p align="center"> &copy; 2024 DMCreations <p/>
