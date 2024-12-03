@@ -15,6 +15,15 @@ DaniBot te saludará según la hora del día, personalizando su mensaje para dar
 ##
 ### >avatar [@usuario] 😜😘.
 Muestra el avatar de la persona mencionada. Si no mencionas a nadie, el bot mostrará tu propio avatar.
+
+##
+### >obtenerlink
+Danibot mostrará un link que permitirá unirse a otros servidores
+
+##
+### >cambiarcanal
+Danibot tendrá en cuenta el canal donde quiere recibas los mensajes de actualizaciones e difución
+
 ##
 ### ¿Hubo un error? 😢.
 En caso de encontrarte con algun error, puedes comunicarlo al numero de whatsapp +57 350 8294382 o proximamente en mas canales de atención
