@@ -26,6 +26,10 @@ Danibot mostrará un link que permitirá unirse a otros servidores
 Danibot tendrá en cuenta el canal donde quiere recibas los mensajes de actualizaciones e difución
 
 ##
+### /random 🎲
+Danibot lanza lanza un dado el cual revela un numero aleatorio con un maximo de 6.
+
+##
 ### ¿Hubo un error? 😢.
 En caso de encontrarte con algun error, puedes comunicarlo al numero de whatsapp +57 350 8294382 o proximamente en mas canales de atención
 
