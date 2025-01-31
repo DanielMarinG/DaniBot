@@ -30,6 +30,10 @@ Danibot tendrá en cuenta el canal donde quiere recibas los mensajes de actualiz
 Danibot lanza lanza un dado el cual revela un numero aleatorio con un maximo de 6.
 
 ##
+### /statusdanibot 🤖
+Danibot te responderá mostrandote el tiempo restante para un reinicio automatico programado por los desarrolladores.
+
+##
 ### ¿Hubo un error? 😢.
 En caso de encontrarte con algun error, puedes comunicarlo al numero de whatsapp +57 350 8294382 o proximamente en mas canales de atención
 
